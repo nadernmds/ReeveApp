@@ -1,0 +1,64 @@
+{
+    "postID": 50101,
+    "name": "سایت چیدانه",
+    "makers": [
+        {
+            "userID": 1,
+            "name": "نادر محمودی"
+        },
+        {
+            "userID": 13,
+            "name": null
+        }
+    ],
+    "hunter": {
+        "name": "نادر محمودی",
+        "userID": 1
+    },
+    "shortDescription": "راهنمای آنلاین دکوراسیون و معماری",
+    "feautured": "2018-06-03T19:40:55.41",
+    "categories": [
+        {
+            "categoryName": "تشریفات",
+            "categoryID": 1026,
+            "description": "دوس دارین مراسمی که برگزار میکنین به نحو احسن پیش بره؟"
+        },
+        {
+            "categoryName": "فروشگاه",
+            "categoryID": 1027,
+            "description": "الان هرچیزی که لازم داشته باشین رو میتونین خیلی سریع و ارزون تهیه کنین"
+        },
+        {
+            "categoryName": "سفارشات اینترنتی",
+            "categoryID": 1028,
+            "description": "تو این بخش کلی جا واسه انجام کاراتون بصورت اینترنتی وجورد داره"
+        },
+        {
+            "categoryName": "طراحی داخلی",
+            "categoryID": 1029,
+            "description": "خونه تون میتونه از اینی هم که هست زیباتر بشه"
+        }
+    ],
+    "liked": true,
+    "saved": false,
+    "likes": 1,
+    "comments": 0,
+    "saves": 0,
+    "Gettingoptions": [
+        {
+            "gettingType": "سایت",
+            "url": "https://www.chidaneh.com/",
+            "gettingOptionTypeID": 5
+        }
+    ],
+    "teams": [
+        {
+            "teamName": "بیلبورد",
+            "teamID": 1
+        },
+        {
+            "teamName": "مایکروسافت",
+            "teamID": 2
+        }
+    ]
+}
